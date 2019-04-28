@@ -1,6 +1,9 @@
 **Editable Files:**
+
 index.html
+
 \_config.yml
+
 README.md (duh)
 404.html
 
