@@ -1,8 +1,8 @@
 **Editable Files:**
 
-index.html
+*index.html*
 
-\_config.yml
+*\_config.yml*
 
 README.md (duh)
 
@@ -12,9 +12,9 @@ README.md (duh)
 
 **Editable Folders:**
 
-img
+*img*
 
-posts
+*posts*
 
 
 **My Files:**
