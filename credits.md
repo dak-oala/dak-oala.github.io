@@ -10,4 +10,4 @@ subtitle: Site Credits
 
 [MIT Liscence](https://github.com/daattali/beautiful-jekyll/blob/master/LICENSE)
 
-[Repository:](https://github.com/daattali/beautiful-jekyll)
+[Repository](https://github.com/daattali/beautiful-jekyll)
