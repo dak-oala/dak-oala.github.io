@@ -5,16 +5,22 @@ index.html
 \_config.yml
 
 README.md (duh)
-404.html
+
+404.html (error page)
 
 \_data (SocialNetworks + Translations)
 
 **Editable Folders:**
+
 img
+
 posts
 
+
 **My Files:**
+
 aboutme.md
+
 credits.md
 
 # Beautiful Jekyll
