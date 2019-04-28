@@ -23,7 +23,7 @@ description: Portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "dak-oala.github.io/aboutme"
+  About Me: "aboutme"
   Resources:
     - Credit: "http://deanattali.com"
 
