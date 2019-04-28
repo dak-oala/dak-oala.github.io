@@ -1,3 +1,19 @@
+**Editable Files:**
+index.html
+\_config.yml
+README.md (duh)
+404.html
+
+\_data (SocialNetworks + Translations)
+
+**Editable Folders:**
+img
+posts
+
+**My Files:**
+aboutme.md
+credits.md
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
