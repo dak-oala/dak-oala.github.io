@@ -17,3 +17,12 @@ Learning just about anything related to CS will expand your knowledge in other f
 My goal with this webpage is to track developments made while learning. I have many goals, short and long term- and this portfolio was made to help me in all I do.
 
 [Here](https://dak-oala.github.io/egshowcase/) is a sample post I would create for a project.
+
+Here are some of my goals:
+
+* Create a *Machine Learning* application
+* Learn *Python*
+* Create a game in *RBX.Lua*
+* Create a game in *Java* using *Eclipse*
+* Start a *Github* project
+* Learn to use *Git*
