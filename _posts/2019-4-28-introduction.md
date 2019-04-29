@@ -17,3 +17,4 @@ Here are some of my goals:
 - [ ] Create a game in *RBX.Lua*
 - [ ] Create a game in *Java* using *Eclipse*
 - [ ] Start a *Github* project
+- [ ] Learn to use *Git*
