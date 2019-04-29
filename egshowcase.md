@@ -55,3 +55,6 @@ This function checks to make sure **input** and **i** are relatively prime. **j*
 The **i** and **b** variables represent the same value, but in different scopes. Sorry for poor distinction or explanation.
 
 In a larger project, which are the ones I plan to showcase on my main webpage, I obviously wouldn't showcase specific functions and lines as I do here, but rather the overall purpose of the classes and packages I create. This is an example.
+
+{: .box-note}
+**Note:** This is a notification box.
