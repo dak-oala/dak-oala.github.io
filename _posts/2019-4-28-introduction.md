@@ -6,8 +6,6 @@ tags: [welcome, first]
 bigimg: /img/path.jpg
 ---
 
-# My Portfolio
-
 This site is made to keep track of all progress I make as I develop and learn CS.
 
 Here are some of my goals:
