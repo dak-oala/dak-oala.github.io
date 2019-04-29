@@ -49,7 +49,7 @@ public static boolean cop(int a, int b) {
     }
 {% endhighlight %}
 
-This function checks to make sure **input** and **i** are relatively prime. **j**, a separate local variable, is all numbers 2-**i**, **i** being the number that is checked for relative prime to **input**. If any number, **j** divides both **input** and **i**, we return false.
+This function checks to make sure **input** and **i** are relatively prime. **j**, a separate local variable, is all numbers 2-**i**, **i** being the number that is checked for relative prime to **input**. If any number, **j**, divides both **input** and **i**, we return false.
 
 {: .box-note}
 The **i** and **b** variables represent the same value, but in different scopes. Sorry for poor distinction or explanation.
