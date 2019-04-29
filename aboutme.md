@@ -15,3 +15,5 @@ Accepting norms *will* trap you.
 Learning just about anything related to CS will expand your knowledge in other fields of CS. The same way syntax of one language can be understood so much easier after having known another language.
 
 My goal with this webpage is to track developments made while learning. I have many goals, short and long term- and this portfolio was made to help me in all I do.
+
+[Here](https://dak-oala.github.io/egshowcase/) is a sample post I would create for a project.
