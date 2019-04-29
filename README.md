@@ -25,6 +25,8 @@ credits.md
 
 changelog.md
 
+egshowcase.md
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
