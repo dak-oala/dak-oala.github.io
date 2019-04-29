@@ -16,4 +16,4 @@ Learning just about anything related to CS will expand your knowledge in other f
 
 My goal with this webpage is to track developments made while learning. I have many goals, short and long term- and this portfolio was made to help me in all I do.
 
-##WIP
+## WIP
