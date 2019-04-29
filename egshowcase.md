@@ -11,7 +11,8 @@ subtitle: i.e., project
 
 I'll use a previous code I wrote as an example.
 
-{: .box-note} In number theory, Euler's totient function (phi function) counts the positive integers up to a given integer n that are relatively prime to n. Two integers are said to be relatively prime if the only positive integer (factor) that divides both of them is 1. The totatives of n = 9 are six numbers 1, 2, 4, 5, 7 and 8, so phi(9) = 6 because 3, 6 and 9 are not relatively prime with 9.
+{: .box-note}
+In number theory, Euler's totient function (phi function) counts the positive integers up to a given integer n that are relatively prime to n. Two integers are said to be relatively prime if the only positive integer (factor) that divides both of them is 1. The totatives of n = 9 are six numbers 1, 2, 4, 5, 7 and 8, so phi(9) = 6 because 3, 6 and 9 are not relatively prime with 9.
 
 {% highlight java linenos %}
 
@@ -50,6 +51,7 @@ public static boolean cop(int a, int b) {
 
 This function checks to make sure **input** and **i** are relatively prime. **j**, a separate local variable is all numbers 2-**i**, **i** being the number that is checked for relative prime. If any number divides both **input** and **i**, we return false.
 
-{: .box-note} The **i** and **b** variables represent the same value, but in different scopes. Sorry for poor distinction or explanation.
+{: .box-note}
+The **i** and **b** variables represent the same value, but in different scopes. Sorry for poor distinction or explanation.
 
 In a larger project, which are the ones I plan to showcase on my main webpage, I obviously wouldn't showcase specific functions and lines as I do here, but rather the overall purpose of the classes and packages I create. This is an example.
