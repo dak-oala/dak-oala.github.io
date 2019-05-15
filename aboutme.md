@@ -20,5 +20,5 @@ Here are some of my goals:
 * Learn *Python*
 
 Here's what I'm currently doing:
-* Creating a game in *Java* using *IDEA IntelliJ* + *LibGDX*
+* Creating a game in *Java* using *IntelliJ IDEA* + *LibGDX*
 * Experimenting with different fields of technology :)
