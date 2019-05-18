@@ -18,7 +18,5 @@ Here are some of my goals:
 * Create a *Machine Learning* application
 * Create a game using *RBX.Lua*
 * Learn *Python*
+* Use *Java*
 
-Here's what I'm currently doing:
-* Creating a game in *Java* using *IntelliJ IDEA* + *LibGDX*
-* Experimenting with different fields of technology :)
