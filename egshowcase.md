@@ -2,6 +2,7 @@
 layout: page
 title: Showcasing a Code
 subtitle: i.e., project
+date: April 28, 2019
 ---
 
 > The term i.e. is a shortening of the Latin expression id est, which translates to “that is.” It is used to introduce a rephrasing or elaboration on something that has already been stated. The term e.g. is an abbreviation of the Latin expression exempli gratia, meaning “for the sake of example” or more colloquially, “for example.” This term is used to introduce examples of something that has already been stated. 
