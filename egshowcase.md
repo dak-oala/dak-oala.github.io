@@ -53,7 +53,4 @@ public static boolean cop(int a, int b) {
 
 This function checks to make sure **input** and **i** are relatively prime. **j**, a separate local variable, is all numbers 2-**i**, **i** being the number that is checked for relative prime to **input**. If any number, **j**, divides both **input** and **i**, we return false.
 
-{: .box-note}
-The **i** and **b** variables represent the same value, but in different scopes. Sorry for poor distinction or explanation.
-
 In a larger project, which are the ones I plan to showcase on my main webpage, I obviously wouldn't showcase specific functions and lines as I do here, but rather the overall purpose of the classes and packages I create. This is an example.
