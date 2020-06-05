@@ -10,5 +10,5 @@ My goal with this webpage is to track developments made while learning. I have m
 
 Here are some of my goals:
 
-* Improve Java/C# skills
-* Improve Unity skills
+* Improve Java skills
+* Improve Unity/C# skills
