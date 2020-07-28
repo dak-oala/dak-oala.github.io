@@ -4,11 +4,11 @@ title: About me
 subtitle: Goals :)
 ---
 
-My goal with this webpage is to track developments made while learning. I have many goals, and this portfolio was made to document and display that.
+I'm a highschool student very passionate about Computer Science & Math!
+This website is my portfoilio, where I'll showcase my progress made as I learn more about these topics.
 
-[Here](https://dak-oala.github.io/egshowcase/) is a sample post I would create for a project.
+Here are a few of my current goals:
 
-Here are some of my goals:
-
-* Improve Java skills
-* Improve Unity/C# skills
+* Improve Roblox Scripting & Develop a game
+* Build an Instagram bot to grow a theme page
+* Learn EE, i.e. Arduino programming
