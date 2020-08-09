@@ -10,7 +10,9 @@ This website is my portfoilio, where I'll showcase my progress made as I learn m
 Here are a few of my current goals:
 
 * Improve Roblox Scripting & Develop a game
+
 * Use Python to create some ML application
+
 * Learn EE, i.e. Arduino programming
 
 * Get into AP Calc BC this year...
