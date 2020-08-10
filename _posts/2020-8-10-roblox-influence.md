@@ -22,3 +22,5 @@ Roblox may be going even further, though. Adopt Me is currently being seen as a 
 Originally Lua 5.1 was used to create games on Roblox Studio, the engine used by developers. However, Roblox has done so much with the language to grow the engine that they started developing what they called Luau. A backwards-compatible typed language that is specific to Roblox. The company invest a lot into making sure that games are efficient and powerful.
 
 I often see many snapshots of creations made by developers that almost seem unreal. Some of these creations look almost too good to be on Roblox, and rather something developed on an engine such as Unreal. Here are a few examples:
+
+9DA5D913-5BA9-46B2-949D-F0AFC615B297.jpeg
