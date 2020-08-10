@@ -19,9 +19,9 @@ Let's go over some stats. Just how much can you make developing Roblox games? Th
 
 Roblox may be going even further, though. Adopt Me is currently being seen as a huge deal on Roblox. The game exceeded a concurrent player count (1.6M) that surpassed even some of the most popular video games of all time. The game has proven itself to be an industry competitor, and has held this position for a long time. This has caused developers to question how many more of these can come out? Some even predict that leading game companies such as Ubisoft or Activision will attempt to step into Roblox. Roblox continues to upgrade its engine and add compatibility for extreme creations, and it's limits are not low. This worried the many indie devs that are able to make a living off Roblox. Many of these developers don't actually need to be front-page to earn decent revenue. But if companies start to see interest in Roblox, it could disturb the cash flow of independent creators. This is mostly speculation however. 
 
-Originally Lua 5.1 was used to create games on Roblox Studio, the engine used by developers. However, Roblox has done so much with the language to grow the engine that they started developing what they called Luau. A backwards-compatible typed language that is specific to Roblox. The company invest a lot into making sure that games are efficient and powerful.
+To add on to it's growth: Originally Lua 5.1 was used to create games on Roblox Studio, the engine used by developers. However, Roblox has done so much with the language to grow the engine that they started developing what they called Luau. A backwards-compatible typed language that is specific to Roblox. The company invest a lot into making sure that games are efficient and powerful.
 
-I often see many snapshots of creations made by developers that almost seem unreal. Some of these creations look almost too good to be on Roblox, and rather something developed on an engine such as Unreal. Here are a few examples:
+I often see many snapshots of creations made by developers that almost seem unreal. Some of these creations look almost too good to be on Roblox, and rather something developed on an engine such as Unreal. Here are a few examples posted by devs following a huge lighting update:
 
 <img src="/img/9DA5D913-5BA9-46B2-949D-F0AFC615B297.jpeg"/>
 
