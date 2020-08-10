@@ -23,4 +23,5 @@ Originally Lua 5.1 was used to create games on Roblox Studio, the engine used by
 
 I often see many snapshots of creations made by developers that almost seem unreal. Some of these creations look almost too good to be on Roblox, and rather something developed on an engine such as Unreal. Here are a few examples:
 
-9DA5D913-5BA9-46B2-949D-F0AFC615B297.jpeg
+<img src="{{ site.baseurl }}/img/9DA5D913-5BA9-46B2-949D-F0AFC615B297.jpeg " />
+
