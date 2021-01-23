@@ -4,4 +4,4 @@ title: About me
 subtitle: Goals :)
 ---
 
-beep boop
+Just to learn new things and create projects
