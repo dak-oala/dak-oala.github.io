@@ -19,7 +19,7 @@ README.md (duh)
 *posts*
 
 
-**My Files:**
+**My Files:** (.md files)
 
 aboutme.md
 
