@@ -8,6 +8,7 @@ readtime: true
 ---
 
 *Note: This isn't neccesarily for teaching, but for my own use.*
+
 To Add: "Master Method"
 
 <img src="/img/image-here.png"/>
@@ -91,6 +92,7 @@ However we wanna describe this as it approaches infinity, so we can remove the +
 A method with 3 nested loops would have a time complexity of **O(n^3)**
 
 ## Other time complexities
+# (https://dakota-byte.github.io/othersources/) 1 and 2
 
 **O(1)** describes algorithms that take the same amount of time to compute regardless of the input size.
 
