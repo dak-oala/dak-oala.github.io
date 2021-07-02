@@ -85,7 +85,7 @@ function checkDuplicates(nums) {
 }
 {% endhighlight %}
 
-There are 2 nested for loops here, which each run n times. Within these loops are about 2 operations (I supposed the continue and return true don't really count)
+There are 2 nested for loops here, which each run n times. (**n^2**) Within these loops are about 2 operations (**2n^2**) (I supposed the continue and return true don't really count)
 
 Theres also line 3, which counts as 1 operation
 
@@ -96,7 +96,7 @@ However we wanna describe this as it approaches infinity, so we can remove the +
 A method with 3 nested loops would have a time complexity of **O(n^3)**
 
 ## Other time complexities
-### (https://dakota-byte.github.io/othersources/) 1 and 2
+### (https://dakota-byte.github.io/othersources/) Time Complexity for better resources
 
 **O(1)** describes algorithms that take the same amount of time to compute regardless of the input size.
 
@@ -111,5 +111,3 @@ A method with 3 nested loops would have a time complexity of **O(n^3)**
 **O(2^n)** Exponential running time means that the calculations performed by an algorithm double every time as the input grows.
 
 **O(n!)** Factorial runtime are terrible, just terrible. (ex. Permutations of a string)
-
-
