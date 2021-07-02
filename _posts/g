@@ -1,0 +1,14 @@
+---
+layout: post
+title: Discord Bot
+subtitle: Creating a Discord bot using Python
+description: Using the Discord.py-rewrite python asynchronous library, to make life easier.
+tags: [python, dev, discord]
+readtime: true
+---
+
+<img src="/img/image-here.png"/>
+
+## What is Discord?
+
+https://discord.com/
