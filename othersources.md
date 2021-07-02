@@ -16,8 +16,8 @@ Super helpful community, simple to understand lessons :)
 
 [1] “How You Can Change the World by Learning Data Structures and Algorithms” Adrian Mejia Blog,
 
-adrianmejia.com/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/
+adrianmejia.com/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/ 
 
 [2] “8 time complexities that every programmer should know” Adrian Mejia Blog,
 
-adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/. 
+adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/ 
