@@ -60,7 +60,7 @@ You can see the +3 really doesn't make a difference as n approaches infinity. As
 
 Therefore we conclude that the time complexity of the getMinValue() method is **O(n)** (We use Big O Notation to describe time complexity.)
 
-Likewise, take the expression **7n^3 + 4n + 9** as a time complexity. We could simplify it down to **O(n^3)**, since that has the highest order, and therefore highest impact.
+Likewise, take the expression **7n^3 + 4n + 9** as a time complexity. We could simplify it down to **O(n^3)**, since that has the highest order, and therefore highest impact. **7n^3 + 4n + 9** is said to be "asymptotically equivalent" to **n^3**, as n → ∞
 
 Lets take a more complex method:
 
