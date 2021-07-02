@@ -6,9 +6,7 @@ subtitle: List of web links I learned from
 
 # Places that I've personally used a lot
 
-SoloLearn: https://www.sololearn.com
-
-Super helpful community, simple to understand lessons :)
+SoloLearn: https://www.sololearn.com (Super helpful community, simple to understand lessons :)
 
 -----------------------------------------------------------------------
 
