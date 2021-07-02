@@ -19,7 +19,7 @@ Time Complexity (running time) is a way of measuring how long an algorithm takes
 
 Take the following code, which returns the smallest value in an array (no specific langauge):
 
-~~~
+{% highlight javascript linenos %}
 function getMinValue(nums) {
   let min
   if (nums.length > 0):
@@ -31,7 +31,7 @@ function getMinValue(nums) {
       
   return min
 }
-~~~
+{% endhighlight %}
 
 We can count the number of operations to determine it's time complexity:
 
@@ -60,7 +60,7 @@ Therefore we conclude that the time complexity of the getMinValue() method is **
 
 Lets take a more complex method:
 
-~~~
+{% highlight javascript linenos %}
 function checkDuplicates(nums) {
   
   let output = false
@@ -79,7 +79,7 @@ function checkDuplicates(nums) {
   
   return output
 }
-~~~
+{% endhighlight %}
 
 There are 2 nested for loops here, which each run n times. Within these loops are about 2 operations (I supposed the continue and return true don't really count)
 
