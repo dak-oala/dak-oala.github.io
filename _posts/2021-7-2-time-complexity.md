@@ -47,6 +47,8 @@ However, that is too specific.
 
 We need to use *Asymptotic analysis* to simplify this, which is a way of describing limiting behavior.
 
+Consider the following table, which shows how the output grows as n grows. Note the effect that the +3 has on the ouput.
+
 | Equation | n | Output |
 | :------ |:--- | :--- |
 | 2(n) + 3 | 10 | 23 |
@@ -57,6 +59,8 @@ We need to use *Asymptotic analysis* to simplify this, which is a way of describ
 You can see the +3 really doesn't make a difference as n approaches infinity. As n grows, the constant is less significant. The 2 also has little significance as we approach infinity, so according to asymptotics we simplify **2(n) + 3** to **n**
 
 Therefore we conclude that the time complexity of the getMinValue() method is **O(n)** (We use Big O Notation to describe time complexity.)
+
+Likewise, take the expression **7n^3 + 4n + 9** as a time complexity. We could simplify it down to **O(n^3)**, since that has the highest order, and therefore highest impact.
 
 Lets take a more complex method:
 
