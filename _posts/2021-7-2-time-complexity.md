@@ -11,7 +11,7 @@ readtime: true
 
 To Add: "Master Method"
 
-<img src="/img/image-here.png"/>
+<img src="/img/big-o-running-time-complexity.png"/>
 
 ## What is Time Complexity?
 
