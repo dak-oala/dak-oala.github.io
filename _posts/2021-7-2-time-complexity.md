@@ -95,7 +95,7 @@ However we wanna describe this as it approaches infinity, so we can remove the +
 
 A method with 3 nested loops would have a time complexity of **O(n^3)**
 
-## Other time complexities
+## Other Big O Notations
 ### (https://dakota-byte.github.io/othersources/) Time Complexity for better resources
 
 **O(1)** describes algorithms that take the same amount of time to compute regardless of the input size.
