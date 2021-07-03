@@ -109,3 +109,7 @@ A method with 3 nested loops would have a time complexity of **O(n^3)**
 **O(2^n)** Exponential running time means that the calculations performed by an algorithm double every time as the input grows.
 
 **O(n!)** Factorial runtime are terrible, just terrible. (ex. Permutations of a string)
+
+## Master Thereom
+
+When dealing with recursion, theres a Master Thereom that can be used to calculate the time complexity of an algorithm.
