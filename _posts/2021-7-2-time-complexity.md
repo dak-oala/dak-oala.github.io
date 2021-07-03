@@ -9,8 +9,6 @@ readtime: true
 
 *Note: This isn't neccesarily for teaching, but for my own use.*
 
-To Add: "Master Method"
-
 <img src="/img/big-o-running-time-complexity.png"/>
 
 ## What is Time Complexity?
@@ -96,7 +94,7 @@ However we wanna describe this as it approaches infinity, so we can remove the +
 A method with 3 nested loops would have a time complexity of **O(n^3)**
 
 ## Other Big O Notations
-### (https://dakota-byte.github.io/othersources/) Time Complexity for better resources
+### (https://dakota-byte.github.io/othersources/) Look under Time Complexity for better resources and examples
 
 **O(1)** describes algorithms that take the same amount of time to compute regardless of the input size.
 
