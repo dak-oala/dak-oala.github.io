@@ -15,6 +15,8 @@ readtime: true
 
 Time Complexity (running time) is a way of measuring how long an algorithm takes to run, and does so accurately despite the system used to test the code (ie, slow vs fast computer). It does not measure in a unit of time, such as seconds, but rather as a function of the input and describes the worse-case scenario.
 
+Update (7/13): (better answer?) its a measure of how the whole algorithm scales up as the input size increases
+
 Take the following code, which returns the smallest value in an array (no specific langauge):
 
 {% highlight javascript linenos %}
