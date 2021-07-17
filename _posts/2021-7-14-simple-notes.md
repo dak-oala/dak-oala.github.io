@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Programming Terminology
+title: Simple Class Terminology
 subtitle: Using Java as an example
 description: Notes, in my own words, of various coding terms
 tags: [Notes, Terminology, Java]
@@ -12,6 +12,10 @@ Credit: https://www.sololearn.com/learning/1068 (The Sololearn Java Course)
 {% highlight javascript linenos %}
 
 {% endhighlight %}
+
+## Some Notes on Classes
+
+Note: Inner classes do exist. Most useful when a class is only used by one other class. It just makes sense to keep them together. "Increases encapsulation" (a good thing).
 
 ### Encapsulation
 
@@ -191,20 +195,65 @@ int a = (int) 3.14;
 
 #### Upcasting
 
+Refers to casting an instance of a subclass to its superclass
+
 {% highlight javascript linenos %}
 
-int a = (int) 3.14;
+Animal a = new Cat();
 
 {% endhighlight %}
 
+Java automatically upcasted the Cat type variable to the Animal type.
 
+#### Downcasting
 
+Refers to casting an object of a superclass to its subclass
 
+Note: Think going down, super -> sub, opposite of Upcasting, which is sub -> super
 
+{% highlight javascript linenos %}
+Animal a = new Cat();
+((Cat)a).makeSound();
+{% endhighlight %}
 
+Note: Upcasting can never fail, but Downcasting can. Think about it, Cat has to be an Animal, because it inherits Animal and is created from it. Animal, however, doesn't have to be a Cat. It could be a Dog.
 
+### Anonymous Classes
 
+Anonymous classes refer to changing a classes method on the fly, upon creation.
 
+Consider the following, where a Machine class exist with a Start() method
+
+{% highlight javascript linenos %}
+class Program {
+    public static void main(String[ ] args) {
+        Machine m = new Machine() {
+            @Override public void start() {
+                System.out.println("Wooooo");
+            }
+        };
+        m.start();
+    }
+}
+{% endhighlight %}
+
+Here, you are overriding the start() method upon creation. This implementation of the start() method will only exist for that class.
+
+### Enums
+
+Enums are a special type that define constants that are members of a fixed set
+
+{% highlight javascript linenos %}
+enum Rank {
+  SOLDIER,
+  SERGEANT,
+  CAPTAIN
+}
+
+Rank a = Rank.SOLDIER;
+{% endhighlight %}
+
+Useful when a variable can only have a certain, predefined, number of options. Ex: Days of a week
 
 
 
