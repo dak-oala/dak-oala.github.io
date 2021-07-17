@@ -13,6 +13,8 @@ Credit: https://www.sololearn.com/learning/1068 (The Sololearn Java Course)
 
 {% endhighlight %}
 
+Note: I tried my best to make this in my own words. Not for teaching, just for an easy reference and for memory
+
 ## Some Notes on Classes
 
 Note: Inner classes do exist. Most useful when a class is only used by one other class. It just makes sense to keep them together. "Increases encapsulation" (a good thing).
