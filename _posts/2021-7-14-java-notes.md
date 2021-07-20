@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Class Terminology
+title: Simple Terminology / Keywords
 subtitle: Using Java as an example
 description: Notes, in my own words, of various coding terms
 tags: [Notes, Terminology, Java]
@@ -257,16 +257,108 @@ Rank a = Rank.SOLDIER;
 
 Useful when a variable can only have a certain, predefined, number of options. Ex: Days of a week
 
+## Exception Handling
 
+### Try / Catch
 
+Exception handling is great for catching runtime bugs and preventing them from destroying the program.
 
+{% highlight javascript linenos %}
 
+try {
+  int a = 5 / 0;
+} catch (Exception e) {
+  System.out.println("Error");
+} finally {
+  // will run no matter what
+}
 
+{% endhighlight %}
 
+Note: The (Exception e) statement in the catch block is used to catch all possible Exceptions. This can be made to something more specific.
 
+Also note the finally keyword
 
+{% highlight javascript linenos %}
+try {
+  //some code
+} catch (ExceptionType1 e1) {
+  //Catch block
+} catch (ExceptionType2 e2) {
+  //Catch block
+} catch (ExceptionType3 e3) {
+  //Catch block
+}
+{% endhighlight %}
 
+There are many ExceptionTypes, such as ArithmeticException
 
+Note: All catch blocks should be ordered from most specific to most general.
 
+### throws
 
+The throws keyword can be used in methods for exception handling
 
+{% highlight javascript linenos %}
+public class Program {
+
+    static int div(int a, int b) throws ArithmeticException {
+        if(b == 0) {
+            throw new ArithmeticException("Division by Zero");
+        } else {
+            return a / b;
+        }
+    }
+
+    public static void main(String[] args) {
+        System.out.println(div(42, 0));
+    }
+
+}
+{% endhighlight %}
+
+### Checked vs Unchecked Exceptions
+
+Checked exceptions prevent your code from compiling, and must be fixed. Typically underlined red in an IDE
+
+Unchecked exceptions occur during runtime, such as ArithmeticException
+
+## Threads
+
+There are two ways to create threads.
+
+The preferred way is to use an Interface so that you still have the option to extend a class.
+
+Class:
+
+{% highlight javascript linenos %}
+class Loader extends Thread {
+    public void run() {
+        System.out.println("Hello");
+    }
+}
+
+class MyClass {
+    public static void main(String[ ] args) {
+        Loader obj = new Loader();
+        obj.start();
+    }
+}
+{% endhighlight %}
+
+Interface:
+
+{% highlight javascript linenos %}
+class Loader implements Runnable {
+    public void run() {
+        System.out.println("Hello");
+    }
+}
+
+class MyClass {
+    public static void main(String[ ] args) {
+        Thread t = new Thread(new Loader());
+        t.start();
+    }
+}
+{% endhighlight %}
